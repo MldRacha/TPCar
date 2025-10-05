@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\TP1\TP1App\obj\Debug\net9.0\TP1App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\TP1\TP1App\obj\Debug\net9.0\TP1App.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\TP1\TP1App\obj\Debug\net9.0\TP1App.AssemblyInfo.cs
+C:\Users\ACER\Desktop\TP1\TP1App\obj\Debug\net9.0\TP1App.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\TP1\TP1App\bin\Debug\net9.0\TP1App.exe
+C:\Users\ACER\Desktop\TP1\TP1App\bin\Debug\net9.0\TP1App.deps.json
+C:\Users\ACER\Desktop\TP1\TP1App\bin\Debug\net9.0\TP1App.runtimeconfig.json
+C:\Users\ACER\Desktop\TP1\TP1App\bin\Debug\net9.0\TP1App.dll
+C:\Users\ACER\Desktop\TP1\TP1App\bin\Debug\net9.0\TP1App.pdb
+C:\Users\ACER\Desktop\TP1\TP1App\obj\Debug\net9.0\TP1App.dll
+C:\Users\ACER\Desktop\TP1\TP1App\obj\Debug\net9.0\refint\TP1App.dll
+C:\Users\ACER\Desktop\TP1\TP1App\obj\Debug\net9.0\TP1App.pdb
+C:\Users\ACER\Desktop\TP1\TP1App\obj\Debug\net9.0\TP1App.genruntimeconfig.cache
+C:\Users\ACER\Desktop\TP1\TP1App\obj\Debug\net9.0\ref\TP1App.dll
